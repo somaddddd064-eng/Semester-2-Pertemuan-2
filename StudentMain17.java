@@ -12,5 +12,10 @@ public class StudentMain17 {
         mhs1.updateIpk(3.60);
         mhs1.tampilkanInformasi();
 
+        Mahasiswa17 mhs2 = new Mahasiswa17("Anisa Nabila","2141720160","TI 2l",3.25);
+        mhs2.updateIpk(3.30);
+        mhs2.tampilkanInformasi();
+
+
     }
 }
