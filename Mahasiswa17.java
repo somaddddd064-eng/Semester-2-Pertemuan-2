@@ -4,7 +4,7 @@ public class Mahasiswa17 {
     String kelas;
     double ipk;
 
-    void tampilkanInnformasi() {
+    void tampilkanInformasi() {
         System.out.println("Nama = " + nama);
         System.out.println("NIM = " + nim);
         System.out.println("Kelas = " + kelas);
