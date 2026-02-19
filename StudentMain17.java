@@ -16,6 +16,9 @@ public class StudentMain17 {
         mhs2.updateIpk(3.30);
         mhs2.tampilkanInformasi();
 
+        Mahasiswa17 mhsFerdi = new Mahasiswa17("Ferdiansyah", "1234234234", "SIB 1G", 3.7);
+        mhsFerdi.updateIpk(3.8);
+        mhsFerdi.tampilkanInformasi();
 
     }
 }
