@@ -18,7 +18,5 @@ public class CourseMain17 {
         course2.addHours(4);
         course2.reduceHours(2);
         course2.displayInformation();
-    }
-
-    
+    }   
 }
